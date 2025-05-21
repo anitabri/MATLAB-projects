@@ -1,10 +1,9 @@
 # MATLAB Projects – Anita Britto
 
-This repository contains a collection of MATLAB projects showcasing problem-solving skills in numerical analysis, algorithms, and interactive logic.
-
+This repository contains a few MATLAB projects showcasing problem-solving skills.
 ---
 
-## :Projects
+## Projects
 
 ### 1. Number Game – L13_Q04.m
 A  user vs. computer game. Players take turns selecting numbers, and the computer collects instructions of the player’s choice.
